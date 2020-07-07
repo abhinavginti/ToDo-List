@@ -1,0 +1,24 @@
+#searchbar
+{
+    border:none !important;
+}
+
+.form-control
+{
+    border:  1px  solid #007bff ;  
+}
+#tableBody
+{
+    border:  1px  solid #007bff; 
+}
+.table
+{
+
+    border:  1.6px  solid #007bff ; 
+}   
+body
+{
+background-image: url(bg.jpg) !important;
+background-size: cover;
+}
+
